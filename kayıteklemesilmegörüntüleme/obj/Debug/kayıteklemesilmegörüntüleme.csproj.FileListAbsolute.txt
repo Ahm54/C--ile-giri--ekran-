@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\kayıteklemesilmegörüntüleme\bin\Debug\kayıteklemesilmegörüntüleme.exe.config
+C:\Users\asus\source\repos\kayıteklemesilmegörüntüleme\bin\Debug\kayıteklemesilmegörüntüleme.exe
+C:\Users\asus\source\repos\kayıteklemesilmegörüntüleme\bin\Debug\kayıteklemesilmegörüntüleme.pdb
+C:\Users\asus\source\repos\kayıteklemesilmegörüntüleme\obj\Debug\kayıteklemesilmegörüntüleme.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\kayıteklemesilmegörüntüleme\obj\Debug\kayıteklemesilmegörüntüleme.Form1.resources
+C:\Users\asus\source\repos\kayıteklemesilmegörüntüleme\obj\Debug\kayıteklemesilmegörüntüleme.Properties.Resources.resources
+C:\Users\asus\source\repos\kayıteklemesilmegörüntüleme\obj\Debug\kayıteklemesilmegörüntüleme.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\kayıteklemesilmegörüntüleme\obj\Debug\kayıteklemesilmegörüntüleme.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\kayıteklemesilmegörüntüleme\obj\Debug\kayıteklemesilmegörüntüleme.exe
+C:\Users\asus\source\repos\kayıteklemesilmegörüntüleme\obj\Debug\kayıteklemesilmegörüntüleme.pdb
